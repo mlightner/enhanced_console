@@ -5,3 +5,4 @@ require 'irbrc_with_history'
 #require 'rdoc/ri/ri_driver'
 #require 'irbrc_with_ri'
 
+# Enjoy!
